@@ -157,3 +157,4 @@ wsproto==1.1.0
 xlrd==2.0.1
 zipp==3.8.1
 zombiedice==0.1.6
+gunicorn
